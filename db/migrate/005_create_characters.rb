@@ -1,0 +1,1 @@
+class CreateCharacter < ActiveRecord::Migrate[5.1]
