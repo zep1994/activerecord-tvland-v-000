@@ -1,3 +1,3 @@
-class AddDayAndSeasonTo < ActiveRecord::Migration[4.2]
+class AddDayAndSeasonToShows < ActiveRecord::Migration[4.2]
   
 end
