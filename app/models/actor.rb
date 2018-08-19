@@ -12,5 +12,4 @@ class Actor < ActiveRecord::Base
       "#{character.name} - #{character.show.name}"
     end
   end 
-  
 end
